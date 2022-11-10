@@ -8,9 +8,11 @@ https://thoughts.t37.net/a-step-by-step-guide-to-securing-your-ssh-keys-with-the
 Trezor
 
 https://blog.trezor.io/trezor-u2f-login-into-your-linux-mint-bd3684d4a8ba
+
 https://wiki.trezor.io/U2F
 
 Yubikey
 
 https://bitcointv.com/c/402paymentrequired/videos
+
 https://www.youtube.com/playlist?list=PLmoQ11MXEmahVl_uJVH0-a3XJtMV59PBu
