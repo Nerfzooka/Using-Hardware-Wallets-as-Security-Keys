@@ -18,4 +18,5 @@ https://bitcointv.com/c/402paymentrequired/videos
 https://www.youtube.com/playlist?list=PLmoQ11MXEmahVl_uJVH0-a3XJtMV59PBu
 
 ATECC608
+
 https://www.adafruit.com/product/4314
