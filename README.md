@@ -1,5 +1,6 @@
 # Using-Hardware-Wallets-as-Security-Keys
 Bitcoin hardware wallets Ledger and Trezor have a security key function.  Lets play with them!
+If you have questions or problems with your hardware security key, press the "Issues" button.
 
 Ledger
 
@@ -17,6 +18,13 @@ https://bitcointv.com/c/402paymentrequired/videos
 
 https://www.youtube.com/playlist?list=PLmoQ11MXEmahVl_uJVH0-a3XJtMV59PBu
 
+
 ATECC608
 
 https://www.adafruit.com/product/4314
+
+
+
+Non-Google software U2F with Python
+
+https://pyauth.github.io/pyotp/
