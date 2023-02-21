@@ -13,6 +13,8 @@ https://blog.trezor.io/trezor-u2f-login-into-your-linux-mint-bd3684d4a8ba
 
 https://wiki.trezor.io/U2F
 
+https://github.com/romanz/trezor-agent
+
 ## Yubikey
 
 https://bitcointv.com/c/402paymentrequired/videos
