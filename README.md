@@ -7,6 +7,8 @@ If you have questions or problems with your hardware security key, press the "Is
 
 https://thoughts.t37.net/a-step-by-step-guide-to-securing-your-ssh-keys-with-the-ledger-nano-s-92e58c64a005
 
+https://github.com/rootzoll/raspiblitz/issues/3378#issuecomment-1453701487
+
 ## Trezor
 
 https://blog.trezor.io/trezor-u2f-login-into-your-linux-mint-bd3684d4a8ba
