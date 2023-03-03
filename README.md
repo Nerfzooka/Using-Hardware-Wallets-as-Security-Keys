@@ -28,8 +28,11 @@ If you have questions or problems with your hardware security key, press the "Is
 ## ATECC608
 
 #### [Adafruit's DIY Secure Element Hardware](https://www.adafruit.com/product/4314)
-
+![adafruit_products_ATECC608_Top](https://user-images.githubusercontent.com/23216537/222857008-49f404dd-3d1e-4421-975d-fc114c113e10.jpg)
 
 ## Non-Google software U2F with Python
 
 #### [Run Your Own Authentication service](https://pyauth.github.io/pyotp/)
+#### [Raspberry Pi TOTP Display](https://forums.adafruit.com/viewtopic.php?t=191031)
+![2fa800X600](https://user-images.githubusercontent.com/23216537/222856411-53a99915-a80f-410f-9ee0-c17d63eed990.jpg)
+
