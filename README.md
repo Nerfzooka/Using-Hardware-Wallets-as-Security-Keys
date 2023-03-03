@@ -5,31 +5,31 @@ If you have questions or problems with your hardware security key, press the "Is
 
 ## Ledger
 
-https://thoughts.t37.net/a-step-by-step-guide-to-securing-your-ssh-keys-with-the-ledger-nano-s-92e58c64a005
+#### [Fred de Villamil's Step By Step Guide SSH On A Mac](https://thoughts.t37.net/a-step-by-step-guide-to-securing-your-ssh-keys-with-the-ledger-nano-s-92e58c64a005)
+#### [Ledger's Guide To SSH](https://blog.ledger.com/ssh/)
 
-https://github.com/rootzoll/raspiblitz/issues/3378#issuecomment-1453701487
+#### [ChrisBonGit's Notes On SSHing Into A Raspiblitz](https://github.com/rootzoll/raspiblitz/issues/3378#issuecomment-1453701487)
 
 ## Trezor
 
-https://blog.trezor.io/trezor-u2f-login-into-your-linux-mint-bd3684d4a8ba
+#### [Satoshi Labs' U2F Login To Linux](https://blog.trezor.io/trezor-u2f-login-into-your-linux-mint-bd3684d4a8ba)
 
-https://wiki.trezor.io/U2F
+#### [Trezor's U2F Guide](https://wiki.trezor.io/U2F)
 
-https://github.com/romanz/trezor-agent
+#### [Romanz' Original Trezor Software](https://github.com/romanz/trezor-agent)
 
 ## Yubikey
 
-https://bitcointv.com/c/402paymentrequired/videos
+#### [402PaymentRequired's Video Series On SSH](https://bitcointv.com/c/402paymentrequired/videos)
 
-https://www.youtube.com/playlist?list=PLmoQ11MXEmahVl_uJVH0-a3XJtMV59PBu
+#### [402PaymentRequired's YouTube Playlist On SSH](https://www.youtube.com/playlist?list=PLmoQ11MXEmahVl_uJVH0-a3XJtMV59PBu)
 
 
 ## ATECC608
 
-https://www.adafruit.com/product/4314
-
+#### [Adafruit's DIY Secure Element Hardware](https://www.adafruit.com/product/4314)
 
 
 ## Non-Google software U2F with Python
 
-https://pyauth.github.io/pyotp/
+#### [Run Your Own Authentication service](https://pyauth.github.io/pyotp/)
